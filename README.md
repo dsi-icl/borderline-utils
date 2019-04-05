@@ -1,2 +1,3 @@
 # borderline-utils
-Utilities suite for the Borderline projects
+
+This project has moved to https://github.com/dsi-icl/borderline
